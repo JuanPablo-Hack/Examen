@@ -1,36 +1,17 @@
-# 15 Puzzle
-Simple Android sliding puzzle game. Supports 2 game modes and custom puzzle sizes.
+# 15 Puzzle - Examen de Programacion Avanzada
+## Juan Pablo de Jesus Figueroa Jaramillo
 
-![Screen 1](/art/1.jpg)
-![Screen 2](/art/2.jpg)
-![Screen 3](/art/3.jpg)
-![Screen 4](/art/4.jpg)
-![Screen 5](/art/5.jpg)
+# Juego del 15
 
-# Download
+El juego del 15 o taken es un juego de deslizamiento de piezas que presentan un determinado orden inicial dentro de una cajita cuadrada. Tiene su origen en Estados Unidos, en el siglo XIX. 
 
-[Google Play](https://play.google.com/store/apps/details?id=com.italankin.fifteen)
+# Juego
 
-# License
+El taken es una cajita formada por 16 casillas de las cuales sólo quince están ocupadas. Todas las fichas están colocadas en orden numérico, excepto la 14 y la 15, que tienen sus posiciones intercambiadas. El juego consiste en maniobrar todas las fichas para corregir el error que hay en la fila inferior de la cajita, de manera que todas las fichas queden en orden consecutivo. 
 
-	MIT License
+# La fiebre del taken
 
-	Copyright (c) 2017 Igor Talankin
+Entre 1880 y 1882, el juego del 15 se convirtió en una verdadera plaga social que se extendió por Estados Unidos y Europa. Sin embargo en 1882, se descubrió que de todos los problemas propuestos en el juego, sólo la mitad tenían solución. En los periódicos se publicaron anuncios de recompensas a quien resolviera por lo menos uno de los problemas insolucionables y diversos diarios neoyorquinos ofrecieron 1.000 dólares al resolutor. Nadie ganó el premio. El juego acabó por desilusionar a la población y con ello terminó la fiebre del taken. 
 
-	Permission is hereby granted, free of charge, to any person obtaining a copy
-	of this software and associated documentation files (the "Software"), to deal
-	in the Software without restriction, including without limitation the rights
-	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-	copies of the Software, and to permit persons to whom the Software is
-	furnished to do so, subject to the following conditions:
 
-	The above copyright notice and this permission notice shall be included in all
-	copies or substantial portions of the Software.
-
-	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-	SOFTWARE.
+	
