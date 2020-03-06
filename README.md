@@ -1,6 +1,8 @@
 # 15 Puzzle - Examen de Programacion Avanzada
 ## Juan Pablo de Jesus Figueroa Jaramillo
 
+![Screen 5](/art/puzzle.png)
+
 # Juego del 15
 
 El juego del 15 o taken es un juego de deslizamiento de piezas que presentan un determinado orden inicial dentro de una cajita cuadrada. Tiene su origen en Estados Unidos, en el siglo XIX. 
